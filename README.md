@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello! <br><br>I'm a passionate Java Backend Developer with an interest in building robust server-side applications. My journey in Java development has equipped me with a solid foundations in object-oriented programming and a strong grasp of database management. I thrive on solving complex problems and I am always eager to learn new technologies and methodologies. I like to bring <br>a fresh perspective and a dedication to learn and grow in software development.<br>Let's code the future together!
+# About Me:
+Hello! <br><br>I'm a passionate Java Backend Developer with an interest in building robust server-side applications. My journey in Java development has equipped me with a solid foundations in object-oriented programming and a strong grasp of database management. I thrive on solving complex problems and I am always eager to learn new technologies and methodologies. I like to bring a fresh perspective and a dedication to learn and grow in software development.
 
 
 ## 🌐 Socials:
